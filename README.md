@@ -5,7 +5,7 @@ Ghidra's IDA like experience by [@NyaMisty](https://github.com/NyaMisty)
 ## How to Use (TL;DR)
 
 ### Preparation
-This configuration MUST be used together with my fork https://github.com/NyaMisty/ghidra_mod
+This configuration MUST be used together with my fork **GhidraMod** : https://github.com/NyaMisty/ghidra_mod
 
 - You can download the build here: https://github.com/NyaMisty/ghidra_mod-ci/releases
 - Or Using My Scoop Bucket and Install `ghidramod`: https://github.com/NyaMisty/scoop_bucket_misty
@@ -22,7 +22,8 @@ This configuration MUST be used together with my fork https://github.com/NyaMist
 
 ### See Also
 
-- Ghidra GDT generated from IDA tils: https://github.com/NyaMisty/ghidra_ida_til
+- Import IDA's type into Ghidra: [ImportIDATypes](https://github.com/NyaMisty/GhidraIDA/tree/master/ImportIDATypes)
+- (Already Bundled in GhidraMod) Ghidra GDT generated from IDA tils: https://github.com/NyaMisty/ghidra_ida_til
 
 
 ## What's Included?
@@ -39,8 +40,8 @@ This configuration MUST be used together with my fork https://github.com/NyaMist
     - GDT Type Library generated from IDA Type Library
     - GDT Type Collected from other repositories
 
-- **Import IDA Types into Ghidra**
-    - See 
+- **Various Ghidra<-->IDA Helpers**
+    - Including [ImportIDATypes](https://github.com/NyaMisty/GhidraIDA/tree/master/ImportIDATypes)
 
 ## KeyBinding Modding
 
