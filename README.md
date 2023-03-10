@@ -12,13 +12,13 @@ This configuration MUST be used together with my fork **GhidraMod** : https://gi
 
 ### Onboarding
 
-- In Ghidra's Project Tool, Go to Tools -> Import Tool..., select `mistyCodeBrowser.tool`
+- In Ghidra's Project Tool, Go to Tools -> Import Tool..., select `mistyGhIDA.tool`
 - Remove or rename the old `CodeBrowser` by right click
 - Rename the new `CodeBrowser_1` to `CodeBrowser`, so that it would be the default CodeBrwoser tool
 
 ### Updating
 
-- As you may customize the tool yourself, you can optionally update the KeyBinding instead of updating the whole tool
+- As you may customize the tool yourself, you can optionally update the KeyBinding (using `mistyGhIDA.kbxml`) instead of updating the whole tool
 
 ### See Also
 
